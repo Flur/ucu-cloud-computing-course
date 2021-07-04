@@ -6,6 +6,9 @@ Cloud computing course HW - 1
 - Microsoft Azure
 
 ## 2. (individual, mandatory, 5 pt) Create cloud accounts
-![Azure](https://raw.githubusercontent.com/flur/ucu-cloud-computing-course/sessions/1_HW/screenshots/1.png)
+![Azure](https://raw.githubusercontent.com/Flur/ucu-cloud-computing-course/sessions/1_HW/screenshots/1.png)
 
 ## 3. (individual, mandatory, 10 pt) Terraform introduction
+![Azure](https://raw.githubusercontent.com/Flur/ucu-cloud-computing-course/sessions/1_HW/screenshots/2.png)
+
+

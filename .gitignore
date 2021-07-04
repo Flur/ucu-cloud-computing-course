@@ -1,1 +1,6 @@
 /.idea/
+/learn-terraform-azure/terraform.tfstate
+/learn-terraform-azure/.terraform.lock.hcl
+/learn-terraform-azure/terraform.tfstate.backup
+/learn-terraform-azure/.terraform/
+/learn-terraform-azure/terraform.tfvars
