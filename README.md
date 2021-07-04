@@ -10,5 +10,6 @@ Cloud computing course HW - 1
 
 ## 3. (individual, mandatory, 10 pt) Terraform introduction
 ![Azure](https://raw.githubusercontent.com/Flur/ucu-cloud-computing-course/sessions/1_HW/screenshots/2.png)
+- for terraform files see folder 'learn-terraform-azure'
 
 
